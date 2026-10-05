@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.py[cod]
+audio/
+.streamlit/secrets.toml
+web/node_modules/
+web/dist/
+web/.vite/
+web/*.tsbuildinfo
